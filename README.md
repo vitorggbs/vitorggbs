@@ -1,161 +1,100 @@
 <!-- ========================= -->
-<!--        PSYDUCK README      -->
+<!--      Psyduck Profile      -->
 <!-- ========================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FFD447&center=true&vCenter=true&width=700&lines=👋+Olá,+eu+sou+Vitor+Gabriel!;💻+Desenvolvedor;🐤+Psyduck+Enjoyer;⚡+Sempre+aprendendo+algo+novo!" />
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://media.tenor.com/5ry-200hErMAAAAC/psyduck-pokemon.gif" width="280">
-</p>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png" width="180"/>
 
----
+# Vitor Gabriel
 
-# 🐤 Sobre Mim
+### Backend Developer • Open Source • Pokémon Enthusiast
 
-🌊 Desenvolvedor apaixonado por tecnologia
+> *"Keeping calm until the headache becomes inspiration."*
 
-💻 Atualmente estudando desenvolvimento de software
-
-🎮 Gosto de jogos, Pokémon e projetos Open Source
-
-🧠 Às vezes meu cérebro funciona igual ao Psyduck...
+</div>
 
 ---
 
-# ⚡ Tecnologias
+## About Me
 
-<p align="center">
+I'm a developer passionate about building practical solutions and constantly learning new technologies.
 
-<img src="https://skillicons.dev/icons?i=php,python,html,css,js,mysql,git,github,vscode"/>
-
-</p>
+- 💻 Focused on Backend Development
+- 🌱 Currently learning new technologies and best practices
+- 🚀 Interested in Open Source
+- 🎮 Gaming enthusiast
+- 💧 Psyduck fan
 
 ---
 
-# 📊 Estatísticas
+## Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 Sequência de commits
+## GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Conquistas
+## Contribution Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌊 Minha Jornada
+## Current Goals
 
-```text
-🌱 Aprendendo...
-██████████░░░░░░░ 60%
-
-PHP        ████████████
-Python     ██████████
-JavaScript ████████
-CSS        █████████
-HTML       ████████████
-```
+- Improve Backend Development skills
+- Contribute to Open Source
+- Build useful projects
+- Learn new frameworks
 
 ---
 
-# 🎮 Pokémon Favorito
+## Featured Projects
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" width="150">
-
-## Psyduck #054
-
-Tipo:
-💧 Água
-
-Habilidade:
-🧠 Cloud Nine
-
-Golpe favorito:
-💦 Water Pulse
-
-</p>
+Coming soon...
 
 ---
 
-# 📈 Gráfico de Contribuições
+## Connect with Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="mailto:vitor.figueiredo.136@edu.ufrn.br">
-<img src="https://img.shields.io/badge/Email-FFD447?style=for-the-badge&logo=gmail&logoColor=black"/>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/vitorggbs">
-<img src="https://img.shields.io/badge/LinkedIn-2C6FB2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FFD447&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square"/>
 
-</p>
+**Psyduck #054**
 
----
-
-<h3 align="center">
-
-💭 "Psy... Psyduck?"
-
-</h3>
-
-<p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</p>
-
-</p>
+</div>
