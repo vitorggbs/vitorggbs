@@ -31,7 +31,7 @@ I'm a developer passionate about building practical solutions and constantly lea
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,ruby,rails,github,vscode"/>
 
 </p>
 
