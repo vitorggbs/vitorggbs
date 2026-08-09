@@ -41,9 +41,9 @@ I'm a developer passionate about building practical solutions and constantly lea
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitorggbs&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.exel.dev/api?username=vitorggbs&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorggbs&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.exel.dev/api/top-langs/?username=vitorggbs&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
