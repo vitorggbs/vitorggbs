@@ -82,7 +82,7 @@ Coming soon...
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/vitor-gabriel-4067a938b">
+<a href="https://linkedin.com/in/vitor-gabriel-4067a938b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
