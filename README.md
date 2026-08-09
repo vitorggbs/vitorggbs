@@ -41,9 +41,9 @@ I'm a developer passionate about building practical solutions and constantly lea
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitorggbs&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorggbs&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -53,7 +53,7 @@ I'm a developer passionate about building practical solutions and constantly lea
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vitorggbs&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Coming soon...
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=vitorggbs&style=flat-square"/>
 
 **Psyduck #054**
 
