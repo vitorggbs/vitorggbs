@@ -78,11 +78,11 @@ Coming soon...
 
 <p align="center">
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:vitor.figueiredo.136@ufrn.edu.br">
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/vitorggbs">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
