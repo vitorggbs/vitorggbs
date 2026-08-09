@@ -8,7 +8,7 @@
 
 # Vitor Gabriel
 
-### Backend Developer • Open Source • Pokémon Enthusiast
+### Backend Developer • Open Source 
 
 > *"Keeping calm until the headache becomes inspiration."*
 
@@ -24,7 +24,6 @@ I'm a developer passionate about building practical solutions and constantly lea
 - 🌱 Currently learning new technologies and best practices
 - 🚀 Interested in Open Source
 - 🎮 Gaming enthusiast
-- 💧 Psyduck fan
 
 ---
 
